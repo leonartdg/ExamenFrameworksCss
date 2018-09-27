@@ -1,0 +1,5 @@
+body{background: url(../img/fondo.jpg);background-size: cover;} .logo{border-right: solid 1px; padding-right: 0.5em}header, .favorites img, .column{padding: 0.5em}
+body>.container{max-width: 1140px;margin: 0 auto; background: rgba(255,255,255,0.8)} hr{border-color: #000}
+.icon{max-width:2.8em;padding:0 0.2em}
+textarea{overflow: auto;margin: 0 0 20px;border: none;max-width: 86%;float: right;}
+.favorites h3, .historial h3{width: 100%;}.post{background: #0c0c0c;color: #fff;text-align: center;}.content{background: #ababab;}
